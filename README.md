@@ -8,13 +8,11 @@
   <p>Machine Learning,Data Science</p>
    <p> Computer vision,Deep learning,Nlp</p>
  
-
-
-
 - 🌱 I’m currently learning:
  <p> ROBOTIC OPERATING SYSTEM</p>
    <p>EMBEDDED SYSTEMS</p>
-     <p> MECHATRONICS</p>
+     <p> drone programming</p>
+      <p> cobots</p>
   
 
 
