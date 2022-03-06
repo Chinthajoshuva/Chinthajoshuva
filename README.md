@@ -13,6 +13,9 @@
    <p>EMBEDDED SYSTEMS</p>
      <p> drone programming</p>
       <p> cobots</p>
+       <p> blockchain</p>
+        <p>RPA</p>
+       
   
 
 
