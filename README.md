@@ -5,16 +5,15 @@
 <h2 Interests </h2> 
   MY INTERESTS:
  <p>Artifical intellengence ,Robotics</p>
-  <p>Machine Learning,Data Science</p>
-   <p> Computer vision,Deep learning,Nlp</p>
- 
-- 🌱 I’m currently learning:
+  <p>Machine Learning,</p>
+   <p> Computer vision
+  ,Deep learning,Nlp</p>
  <p> ROBOTIC OPERATING SYSTEM</p>
    <p>EMBEDDED SYSTEMS</p>
-     <p> drone programming</p>
-      <p> cobots</p>
-       <p> blockchain</p>
-        <p>RPA</p>
+     <p> drones</p>
+   
+    
+
        
   
 
